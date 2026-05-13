@@ -1,0 +1,6 @@
+{
+  "name": "MetaScrub - Zero Metadata Audio Stripper",
+  "description": "Deep metadata cleaning tool for audio files. Removes tags, signatures, and ID info to ensure complete privacy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
